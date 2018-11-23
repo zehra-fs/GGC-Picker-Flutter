@@ -87,7 +87,7 @@ class MyHome extends StatelessWidget {
             ),
             child: new ListTile(
               title: new Text("${items[index]}"),
-              onTap: () {print('It Works!! gist ');}, //Can be used to set Hide/Unhide
+              onTap: () {print('It Works!!! <3');}, //Can be used to set Hide/Unhide
 
             ),
           );
