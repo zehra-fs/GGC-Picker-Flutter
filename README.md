@@ -1,8 +1,4 @@
 # flutter_ggc_picker
 
-A new Flutter application.
+Flutter app to randomly pick students from a list of names. Created in Nov 2018. 
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
